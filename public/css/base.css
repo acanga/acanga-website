@@ -1,0 +1,201 @@
+*
+{
+  color: #525252;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  font-size: 12px;
+  margin: 0 auto;
+}
+
+body
+{
+  background: url(../images/bg.png) repeat-x #ebeaeb;
+}
+
+#geral
+{
+  height: auto;
+  width: 990px;
+}
+
+#logo
+{
+  float: left;
+  height: 66px;
+  margin: 15px 0 0 25px;
+  width: 191px;
+}
+
+#frase_quem_somos
+{
+  height: 47px;
+  margin-top: 15px;
+  padding-top: 15px;
+  width: 990px;
+}
+
+#frase_quem_somos p
+{
+  color: #b4d4ba;
+  font-size: 24px;
+  text-align: center;
+}
+
+#conteudo
+{
+  height: auto;
+  width: 990px;
+}
+
+.informacoes
+{
+  border-top: 1px solid #82af8b;
+  height: auto;
+  margin: 60px 0 30px 0;
+  width: 990px;
+}
+
+.titulo
+{
+  background: #ebeaeb;
+  color: #334337;
+  font-size: 24px;
+  margin-top: -15px;
+  padding: 0 5px;
+  text-align: center;
+  width: 295px;
+}
+
+.servico1
+{
+  width: 270px;
+  height: auto;
+  float: left;
+  margin: 10px 0 0 16px;
+  text-align: center;
+}
+
+.servico2
+{
+  width: 270px;
+  height: auto;
+  float: left;
+  margin: 10px 0 0 70px;
+  text-align: center;
+}
+
+.servico3
+{
+  width: 270px;
+  height: auto;
+  float: left;
+  margin: 10px 0 0 70px;
+  text-align: center;
+}
+
+.titulo_oferecemos
+{
+  font-size: 24px;
+  color: #6d9474;
+  text-align: center;
+}
+
+#contatos
+{
+  width: 350px;
+  height: auto;
+  float: left;
+  margin: 10px 0 0 16px;
+}
+
+#contatos p, #contatos p a
+{
+  color: #334337;
+  font-size: 18px;
+  text-decoration: none;
+  margin-bottom: 15px;
+}
+
+#contatos p a:hover
+{
+  color: #6d9474;
+}
+
+#formulario
+{
+  width: 350px;
+  height: auto;
+  float: right;
+  margin: 10px 16px 0 0;
+}
+
+#formulario p
+{
+  color: #334337;
+  font-size: 16px;
+}
+
+#formulario .input_text
+{
+  background: #f7f7f7;
+  border: 1px solid #7ea786;
+  font-size: 16px;
+  height: 25px;
+  width: 350px;
+}
+
+#formulario .input_textarea
+{
+  min-width: 350px;
+  max-width: 350px;
+  min-height: 100px;
+  max-height: 100px;
+  font-size: 16px;
+  border: 1px solid #7ea786;
+  background: #f7f7f7;
+}
+
+#formulario .input_submit
+{
+  color: #334337;
+  font-size: 16px;
+}
+
+.txt_banner
+{
+  width: 590px;
+  float: left;
+  margin: 45px 50px 0 50px;
+}
+
+.txt_banner p.tit_banner
+{
+  font-size: 30px;
+  color: #2e3c31;
+}
+
+.txt_banner p
+{
+  font-size: 18px;
+  color: #2e3c31;
+}
+
+.img_banner
+{
+  width: 251px;
+  height: 161px;
+  float: left;
+  margin: 30px 0 0 0;
+}
+
+#slider
+{
+  height: 200px;
+  width: 990px;
+  overflow: hidden;
+}
+
+#slider li
+{
+  list-style-type: none;
+  width: 990px;
+}
